@@ -1,13 +1,9 @@
-# Analysis of Kinetic Energy Recovery System Based on Four-Phase Interleaved Buck Converter for Vehicle Verification Processes
+# Hybrid IRS–NOMA Framework for Turbulence Resilient Underwater Visible Light Communication
 
-**Manuscript ID:** IEEE LATAM Submission ID: 9490 
+**Manuscript ID:** 10373
 **Authors:**  
-- Iván Reyes-Portillo  
-- Abraham Claudio  
-- Dora Castro  
-- Saúl Méndez  
-- Luis Carreto  
-
+- Prathibha Praharsha Sripathi  
+- Mahesh Miriyala  
 ---
 
 ## 📁 Included Scripts
@@ -16,27 +12,19 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Script | Related Figure(s) | Description |
 |--------|-------------------|-------------|
-| `TransferFunctions_KERS.m` | Fig. 5 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
-| `flywheel.m` | Fig. 6 (a, b, c) | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
-| `senales.m` | Fig. 9 (a, b, c, d) | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
-
----
-
-## 📂 Required Files
-
-- `Graf-KERs.xlsx`: Required for `senales.m`. Place it in the same folder as the script.
-- `flywheel.m` and `TransferFunctions_KERS.m` are standalone and do not require additional files.
+| figure_3.m | Fiure 3 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
+| figure_4.m | Figure 4 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
+| figure_5.m | Figure 5 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
+| figure_6.m | Fiure 6 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
+| figure_7.m | Figure 7 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
+| figure_8.m | Figure 8 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
+| figure_9.m | Fiure 9 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
+| figure_10.m | Figure 10 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
+| figure_11.m | Figure 11 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
 
 ---
 
 ## 💻 Requirements
 
-- MATLAB R2018b or later.
+- MATLAB R2025a or later.
 - No additional toolboxes are required.
-
----
-
-## ✉️ Contact
-
-For questions or replication of results:  
-ivan.reyes@upslp.edu.mx
