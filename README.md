@@ -16,7 +16,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Script | Related Figure(s) | Description |
 |--------|-------------------|-------------|
-| figure_3.m | Fiure 3 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
+| figure_3.m | Fiure 3 | plots the Outage Probability of U1 user with and without IRS and U2 user. |
 | figure_4.m | Figure 4 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
 | figure_5.m | Figure 5 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
 | figure_6.m | Fiure 6 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
