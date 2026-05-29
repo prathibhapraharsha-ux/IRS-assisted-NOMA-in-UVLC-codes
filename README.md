@@ -2,9 +2,9 @@
 
 **Manuscript ID:** 10373
 
-**Authors:**  
-- Prathibha Praharsha Sripathi  
-- Mahesh Miriyala  
+**Authors:**  - Prathibha Praharsha Sripathi  
+              
+              - Mahesh Miriyala  
 ---
 
 ## 📁 Included Scripts
