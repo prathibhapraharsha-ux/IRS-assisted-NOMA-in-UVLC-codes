@@ -1,2 +1,3 @@
-# IRS-assisted-NOMA-in-UVLC-codes
-A hybrid IRS assisted NOMA frame work in UVLC systems
+Hybrid IRS–NOMA Framework for Turbulence Resilient Underwater Visible Light Communication
+Manuscript ID: 10793
+Authors : Prathibha Praharsha Sripathi and Mahesh Miriyala
