@@ -1,6 +1,7 @@
 # Hybrid IRS–NOMA Framework for Turbulence Resilient Underwater Visible Light Communication
 
 **Manuscript ID:** 10373
+
 **Authors:**  
 - Prathibha Praharsha Sripathi  
 - Mahesh Miriyala  
