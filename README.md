@@ -16,15 +16,15 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Script | Related Figure(s) | Description |
 |--------|-------------------|-------------|
-| figure_3.m | Fiure 3 | plots the Outage Probability of U1 user with and without IRS and U2 user. |
-| figure_4.m | Figure 4 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
-| figure_5.m | Figure 5 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
-| figure_6.m | Fiure 6 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
-| figure_7.m | Figure 7 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
-| figure_8.m | Figure 8 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
-| figure_9.m | Fiure 9 | Computes transfer functions from vehicle speed (km/h) to generator input speed (rpm) and output voltage (V). Includes step response plots for four velocity profiles. |
-| figure_10.m | Figure 10 | Calculates mass, moment of inertia, and stored kinetic energy for five flywheel design cases. Generates bar plots comparing steel and aluminum options. |
-| figure_11.m | Figure 11 | Loads waveform data from `Graf-KERs.xlsx` and plots four time-domain signals: input current, inductor currents, output current, and output voltage. |
+| figure_3.m | Fiure 3 | Plots the Outage Probability of near user U1 with and without IRS.|
+| figure_4.m | Figure 4 |Plots the Outage probability comparison of U1 and U2 under different powerallocation settings a2, illustrating the parameter-sensitive fairness behavior of the proposed scheme in both IRS-assisted and non-IRS scenarios. |
+| figure_5.m | Figure 5 |Plots the Outage Probability of U1 user at different N (number of reflecting elements) values. |
+| figure_6.m | Fiure 6 | Plots the Outage Probability of U1 and U2 users at different threshold SNR values. |
+| figure_7.m | Figure 7 |Plots the Outage Probability of U1 and U2 users at different pointing error parameter values. |
+| figure_8.m | Figure 8 |Plots the Outage probability of U1 user with and without IRS, and U2 with and without NOMA. |
+| figure_9.m | Fiure 9 |PLots the Outage probability of U1 with NLOS distance from buoy to IRS and IRS to user U1. |
+| figure_10.m | Figure 10 | Plots the Average bit error rate of the U1 and U2 users.|
+| figure_11.m | Figure 11 |Plots the Outage Probability of U1 and U2 users at different bubble lengths. |
 
 ---
 
