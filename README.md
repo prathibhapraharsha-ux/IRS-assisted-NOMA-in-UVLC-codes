@@ -16,7 +16,6 @@ This repository contains all scripts required to reproduce the simulation and nu
 
 | Script | Related Figure(s) | Description |
 |--------|-------------------|-------------|
-
 | figure_3.m | Figure 3 | Plots the Outage Probability of near user U1 with and without IRS.|
 | figure_4.m | Figure 4 |Plots the Outage probability comparison of U1 and U2 under different powerallocation settings a2, illustrating the parameter-sensitive fairness behavior of the proposed scheme in both IRS-assisted and non-IRS scenarios. |
 | figure_5.m | Figure 5 |Plots the Outage Probability of U1 user at different N (number of reflecting elements) values. |
